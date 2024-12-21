@@ -89,7 +89,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🧑‍💻 Author  
 **Vineeth Sai Varikuntla**  
 - **GitHub**: [vineethsaivs](https://github.com/vineethsaivs)
-- **LinkedIn**: [Vineeth Sai](https://www.linkedin.com/in/vineethsaivarikuntla)
+- **LinkedIn**: [Vineeth Sai](https://www.linkedin.com/in/vineethsaivs)
 
 ---
 
